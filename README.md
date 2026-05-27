@@ -29,7 +29,7 @@ Weather VIBES
 
 
 #### Connect With Me
-- Instagram: Asher Mangala(https://instagram.com/_d3f4ult._.ctrl_)
-- Twitter/X: [@_d3f4ult_ctrl_](https:x.com/_d3f4ult_ctrl_)
+- Instagram: Asher Mangala(https://instagram.com/d3f4ult-ctrl)
+- Twitter/X: [@_d3f4ult_ctrl_](https:x.com/d3f4ult_ctrl)
 - Email: ashermangala30@gmail.com
 *This README updates automatically with my latest activity.*
