@@ -1,8 +1,11 @@
 ## Asher Mangala 
 
 Full Stack Developer| Building in public 👨🏽‍💻
+
 CEO | [Vyra Labs Technologies](https://github.com/vyralabstech) 👨🏽‍💼
+
 Back-End Engineer 👨🏽‍🔬
+
 Technical Advicer to the CTO
 
 ---
