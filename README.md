@@ -34,7 +34,11 @@ Weather VIBES
 
 
 #### Socials 
-- Instagram: [Asher Mangala](https://instagram.com/d3f4ult_ctrl)
-- Twitter/X: [Asher Mangala](https:x.com/d3f4ult_ctrl)
-- Email: ashermangala30@gmail.com
+- [My Instagram Profile](https://instagram.com/ashmangala)
+- [My X Profile](https:x.com/ashermangala)
+- [My Facebook Profile](https://facebook.com/ashmangala)
+- [My LinkedIn Profile](https://)
+- [My YouTube Channel](https://youtube.com/@ashmangala)
+- [My Tiktok Profile](https://tiktokcom/@ashmangala)
+
 *This README updates automatically with my latest activity.*
