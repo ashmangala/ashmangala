@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/9cf57f87-d11e-4fdb-aab8-78519b05597e" />## Asher Mangala 
+## Asher Mangala 
 
 Full Stack Developer| Building in public 👨🏽‍💻
 
