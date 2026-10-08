@@ -1,4 +1,4 @@
-## Asher Mangala 
+<img width="1366" height="768" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/9cf57f87-d11e-4fdb-aab8-78519b05597e" />## Asher Mangala 
 
 Full Stack Developer| Building in public 👨🏽‍💻
 
@@ -18,11 +18,12 @@ Technical Advicer to the CTO
 ---
 
 #### Featured Projects
-1. **[Quiz Web App](https://github.com/d3f4ult-ctrl)** - A vanilla JS quiz app with score tracking and responsive design
-2. **[School Management System](https://github.com/d3f4ult-ctrl/school-management-system)** - A Flask Web App for school management
-3. **[Weather VIBES](https://github.com/d3f4ult-ctrl/weather-web-app)** - A Vanilla JS Weather Web App
+1. **[Quiz Web App](https://ashmangala.github.io/quiz-web-app/)** - A vanilla JS quiz app with score tracking and responsive design
+2. **[School Management System](https://ashmangala.github.io/school-management-system/)** - A Flask Web App for school management
+3. **[Weather VIBES](https://ashmangala.github.io/weather-web-app/)** - A Vanilla JS Weather Web App
 
 #### My Projects
+
 School Management System
 ![alt text](<Screenshot (1).png>)
 
