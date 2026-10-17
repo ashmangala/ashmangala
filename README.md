@@ -1,12 +1,10 @@
-## Asher Mangala 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/25438891-957e-412f-9312-02c79f38c9a3" />## Asher Mangala 
 
-Full Stack Developer| Building in public 👨🏽‍💻
+Full Stack Builder
 
-CEO | [Vyra Labs Technologies](https://github.com/vyralabstech) 👨🏽‍💼
+CEO [Astra Phox](https://github.com/astraphox) | Backend and Security
 
-Back-End Engineer 👨🏽‍🔬
-
-Technical Advicer to the CTO
+DM for Collab | Kitwe, Zambia
 
 ---
 
@@ -38,7 +36,7 @@ Weather VIBES
 - [My Instagram Profile](https://instagram.com/ashmangala)
 - [My X Profile](https:x.com/ashermangala)
 - [My Facebook Profile](https://facebook.com/ashmangala)
-- [My LinkedIn Profile](https://)
+- [My LinkedIn Profile](https://www.linkedin.com/in/asher-mangala-a8977b282)
 - [My YouTube Channel](https://youtube.com/@ashmangala)
 - [My Tiktok Profile](https://tiktokcom/@ashmangala)
 
