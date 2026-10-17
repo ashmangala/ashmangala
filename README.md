@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/25438891-957e-412f-9312-02c79f38c9a3" />## Asher Mangala 
+## Asher Mangala 
 
 Full Stack Builder
 
@@ -19,6 +19,8 @@ DM for Collab | Kitwe, Zambia
 1. **[Quiz Web App](https://ashmangala.github.io/quiz-web-app/)** - A vanilla JS quiz app with score tracking and responsive design
 2. **[School Management System](https://school-management-system-sa2i.onrender.com/)** - A Flask Web App for school management
 3. **[Weather VIBES](https://ashmangala.github.io/weather-web-app/)** - A Vanilla JS Weather Web App
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/25438891-957e-412f-9312-02c79f38c9a3" />
 
 #### My Projects
 
